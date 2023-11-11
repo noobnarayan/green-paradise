@@ -1,6 +1,6 @@
 const data = {
     "id": "2",
-    "productName": "Sansevieria Superba Green - Snake Plant",
+    "productName": "Sansevieria Superba ",
     "productDescription": "The Sansevieria Superba Green, also known as the Snake Plant, is a popular indoor plant known for its hardiness and unique look. Native to West Africa, it's an excellent choice for indoor spaces because it tolerates low light and dry air. The Snake Plant has stiff, upright leaves that range from one to eight feet tall, depending on the variety. Its architectural nature makes it a natural choice for modern and contemporary interior designs.",
     "productImage": [
         "https://www.ugaoo.com/cdn/shop/files/DSC_6288.jpg",

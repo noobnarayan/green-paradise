@@ -138,3 +138,50 @@ h1 {
   font-size: 16px;
   font-weight: 500;
 }
+/* CSS for Tablet */
+@media (max-width: 768px) {
+}
+
+/* CSS for Mobile */
+@media (max-width: 480px) {
+  .productDetails {
+    flex-direction: column;
+  }
+  .leftImages {
+    width: 100%;
+  }
+  .rightDetails {
+    width: 100%;
+  }
+  .titleStock {
+    flex-direction: column;
+    align-items: start;
+    gap: 1rem;
+  }
+  .buttons {
+    width: 100%;
+    justify-content: center;
+  }
+  .addToCart {
+    width: 75%;
+  }
+  .tipsImages {
+    margin-top: 1rem;
+    justify-content: center;
+  }
+  .tipsImages h3 {
+    font-size: 17px;
+  }
+  .tipsImages p {
+    font-size: 15px;
+  }
+  .tipsImages div {
+    justify-content: center;
+  }
+  .topImg {
+    height: max-content;
+  }
+  .topImg > img {
+    height: 50vh;
+  }
+}
